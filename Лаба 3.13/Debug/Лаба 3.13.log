@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\pesot\Desktop\Новая папка\Лаба 3.13\Source.cpp(4): warning C4101: z: неиспользованная локальная переменная
+C:\Users\pesot\Desktop\Новая папка\Лаба 3.13\Source.cpp(4): warning C4101: i: неиспользованная локальная переменная
+  Лаба 3.13.vcxproj -> C:\Users\pesot\Desktop\Новая папка\Лаба 3.13\Debug\Лаба 3.13.exe
